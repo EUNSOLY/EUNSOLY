@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=B0DAFF&height=180&section=header&text=Hellow%20EUNSOLY%20Github&fontAlignY=35&fontSize=32&fontColor=ffffff" />
   
- ⚒️Technical stack⚒️
-
- <b>Markup Language<b>
+ ⚒️<b>Technical stack</b>⚒️
+<br/>
+ Markup Language
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br/><br/>
  🐬Language🐬 <br/> 
