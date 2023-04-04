@@ -22,12 +22,10 @@
   <hr/>
   <div align=center>
     <h3>📚Study space📚</h3>
-    <a href="https://www.notion.so/eunsoly/989da43be47645298de34f8ce3eb27c9?pvs=4">
+    
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-    </a>
-  <a href="https://github.com/EUNSOLY">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-    </a>
+  
   </div>
 
 
