@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />
   <br/>
-  <span>위에 적은 기술스택 내꺼만들기 진행 중!</span>
+  <span>위에 적은 기술스택 내꺼만들기는 아직 진행 중!</span> <br/>
+  <span>아니 평생 진행예정💪</span>
+  
   </div>
 
   <hr/>
