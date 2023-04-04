@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />
   </div>
-
+<span>ㅎㅎ 열공중!</span>
   <hr/>
   <div align=center>
     <h3>📚Study space📚</h3>
