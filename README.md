@@ -22,10 +22,8 @@
   <hr/>
   <div align=center>
     <h3>📚Study space📚</h3>
-    
      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-  
   </div>
 
 
